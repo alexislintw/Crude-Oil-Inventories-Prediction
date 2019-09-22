@@ -48,5 +48,9 @@
 - Accuracy for training set: 0.67
 - Accuracy for test set: 0.63
 
+## 參考文獻
 
-*** 詳細實驗報告請見"report"資料夾 ***
+- [A Practical Guide to Support Vector Classification. Chih-Jen Lin, 2003](https://cdn.fbsbx.com/v/t59.2708-21/56835846_2120982971333713_3907667920003530752_n.pdf/A-Practical-Guide-to-Support-Vector-Classification.pdf?_nc_cat=102&_nc_oc=AQlDde5VgtkARL8zqHgrMT9tIx4fxmonKwxI0w5Utu_upaMkDmr5eHDk_3mKlH44LGg&_nc_ht=cdn.fbsbx.com&oh=0337f86caa76a02eb3f9dee633a27a7d&oe=5D88C944&dl=1&fbclid=IwAR1cn_fIj-bF2077yNVicSvDsL6r93Qv9PExqbXJBvEHlZmSkHTrhzSbHL8)
+
+
+*詳細實驗報告請見"report"資料夾*
