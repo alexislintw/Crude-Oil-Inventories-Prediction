@@ -47,7 +47,8 @@
 
 - Accuracy for training set: 0.67
 - Accuracy for test set: 0.63
-*詳細實驗報告請見"report"資料夾*
+
+- 詳細實驗報告請見"report"資料夾
 
 ## 參考文獻
 
